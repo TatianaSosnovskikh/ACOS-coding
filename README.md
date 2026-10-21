@@ -149,3 +149,4 @@
 **Результат:** `PASS`.
 
 ---
+<img width="957" height="447" alt="Screenshot_20261021_203525_Pinterest" src="https://github.com/user-attachments/assets/cb52cbe0-b7f7-41a5-a44e-68f9ee5b56a7" />
